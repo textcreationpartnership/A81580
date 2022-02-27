@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>XIV articles of treason and other misdemeanors, exhibited to Isaac Penington, by Master Chamfield, alias Captain Cloak-bag, against Edward Dobson, the malignant stationer without Newgate.</title>
+            <author>Dobson, Edward, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81580</idno>
+            <idno type="STC">Wing D1752</idno>
+            <idno type="STC">Thomason E94_19</idno>
+            <idno type="STC">ESTC R11947</idno>
+            <idno type="EEBO-CITATION">99859172</idno>
+            <idno type="PROQUEST">99859172</idno>
+            <idno type="VID">155787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155787)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E94[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>XIV articles of treason and other misdemeanors, exhibited to Isaac Penington, by Master Chamfield, alias Captain Cloak-bag, against Edward Dobson, the malignant stationer without Newgate.</title>
+                  <author>Dobson, Edward, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, for Edward Dobson,</publisher>
+                  <pubPlace>Oxford [i.e. London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>False imprint. -- Cf. Madan.</note>
+                  <note>Satire on Parliamentary party; Hugh Peters &amp; New England "Canaanites" are mentioned.</note>
+                  <note>Annotation on Thomason copy: "March. 30.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penington, Isaac, --  Sir, 1587?-1660.</term>
+               <term>Chamfield, --  Master.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155787:1" rendition="simple:additions"/>
+            <p>XIV ARTICLES OF TREASON AND <hi>OTHER MISDEMEANORS,</hi> Exhibited to ISAAC PENINGTON, by Maſter <hi>Chamfield,</hi> alias <hi>Captain Cloak-Bag,</hi> againſt <hi>Edward Dobſon,</hi> the Malignant Stationer without Newgate.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by LEONARD LICHFIELD, for <hi>Edward Dobſon.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:155787:2"/>
+            <pb n="1" facs="tcp:155787:2"/>
+            <head>Articles of Treaſon and other miſdemeanors, exhibited to <hi>Iſaac Pennington</hi> by Maſter <hi>Chamfield,</hi> alias Captain Cloakbag, againſt <hi>Edward Dobſon,</hi> the Malignant Stationer without Newgate.</head>
+            <p n="1">I. <hi>IMprimis,</hi> That the ſaid <hi>Edward Dobſon,</hi> hath and doth refuſe to go out with the ſaid Captain to fight the Lords battails a<g ref="char:EOLhyphen"/>gainſt the <hi>Lords Annointed,</hi> ſaying, that he is reſolved to un<g ref="char:EOLhyphen"/>dergo any corporall puniſhment, rather then to fight for a Rid<g ref="char:EOLhyphen"/>dle; which he accounts our fighting againſt the King, and yet fighting for him.</p>
+            <p n="2">2 That he being told of the death of the noble <hi>Lord Brooke</hi> laught, ſaying, <hi>Now the Browniſts Dagon is faln, their Idoll;</hi> and againe ſmiled, ſpeaking in the Noſe, <hi>The Glory of Iſrael is de<g ref="char:EOLhyphen"/>parted.</hi>
+            </p>
+            <p n="3">3 That the ſaid Malignant, hath been alwayes forward by Diſputations, Arguments, and the like, to maintain (to the great prejudice of out Cauſe which we fight for) that Churches are more convenient, decent, and fitting for us to preach and exer<g ref="char:EOLhyphen"/>ciſe our gifts in, than Chimney-corners, Hollow-trees, Woods, Sawpits, or the like; and that the ſaid Malignant hath been the greateſt offence to our uprightneſſe, that ever hapned without the Gate of our New Jeruſalem.</p>
+            <p n="4">4 That he being told of the Trenches which we were dig<g ref="char:EOLhyphen"/>ging at the Sixe Windmils, anſwered, that they were the fitteſt places for ſuch giddy braines to lye in, and ſaid to our great diſ<g ref="char:EOLhyphen"/>paragement, that when Prince <hi>Rupert</hi> came, we would all turn <hi>Round</hi> like thoſe Windmils.</p>
+            <p n="5">5 That he hath oftentimes threatned to publiſh a Book in<g ref="char:EOLhyphen"/>tituled,
+<pb n="2" facs="tcp:155787:3"/>
+               <hi>Flagellum Sciſmaticorum &amp; Browniſticorum,</hi> or, <hi>a Scourge for Schiſmatickes:</hi> Upon the Frontiſpeece of which (as he ſaid) ſhould be the picture of a Weather-cock and a Windmill, a Weathercock for new-England, and a Windmil for old England, and that he would haue enſculpt, the picture of a man kneeling down to a Windmill, calling it the <hi>Browniſts Devotion.</hi>
+            </p>
+            <p n="6">6. That he called the new elected Enſigne of your ſaid Cap<g ref="char:EOLhyphen"/>tain <hi>Thomas Andrews</hi> Grocer, Cholerick Cock-braind, Codpiece Tom; and ask'd him who was drunk the laſt night of the firſt Mo<g ref="char:EOLhyphen"/>neth when he carried my Colours to the Exchange; and ſaid, that a Knave in grain was the fitteſt to carry the Colours of our New-Militia, which was lately buried in Houndſditch, and all this he ſaid for no other reaſon, but becauſe my Enſigne called thoſe Gentlemen that came to his ſhop the Kings Rogues, and ſaid that the King had none but Rogues about him, which alas he ſaid out of conſcience, haveing lately taken the late Oath and Proteſtation to defend the Kings honour.</p>
+            <p n="7">7. That he hath often ſpoken againſt our Rebaptiſm, affirming that our going to <hi>Hackney-Marſh</hi> with our cleane ſhirts and ſmockes to be baptiſed in the little Riuer there, which we call our <hi>Iordan,</hi> is unlawfull; Alledging for his proof the ſaying of popiſh <hi>Auguſtin,</hi> and Proteſtant <hi>Perk ns,</hi> whoſe opinion is, as he ſaid, that being once baptiſed (though according to the cuſtom of the Church of <hi>Rome</hi>) is a ſufficien teſtimony of our outward Reception into the Church of Chriſt and that other baptiſme is needleſſe and frivalous.</p>
+            <p n="8">8 That he hath Philoſophically and vainely maintained by ar<g ref="char:EOLhyphen"/>guments and diſputations, that Browniſts and Roundheads doe commonly begert Children with long viſſages, long ears, and Long Noſes, long viſſages the emblem of ſimplicity, long eares that they may ouer-reach the ſhepheards voyce when he calles for a feaſt amongſt the rich Saints; and long Noſes that they may the more eaſily ſmell the ſweet ſaviours of the holy plumbroth.</p>
+            <p n="9">9 That he is a great admirer at that which we deſpiſe and con<g ref="char:EOLhyphen"/>temn, Namely wit and Learning which are flat popery, and the very markes of the Beaſt, and that he did often and frequently
+<pb n="3" facs="tcp:155787:3"/>ſpeake againſt our new Goſpell, which teacheth us (as he ſaies) to rebell and reſiſt the King and likewiſe againſt the miniſters that brought it ouer from New-England, the Land of <hi>Canaan,</hi> As Mr. <hi>Peters,</hi> whoſe zealous Doctrine we have ſtayed ſo long to heare on a Faſt day, that we have even bepiſt our our ſelves againe, and alſo againſt Mr. <hi>Caſe,</hi> whom he calles my Lord <hi>Maiors</hi> Trumpeter, M. <hi>Marler</hi> the button maker, againſt Mr. <hi>Till</hi> who though carnally blind yet a ſpirituall ſeeing man, ye &amp; feeling too, for he his lately betroathed to a ſiſter in matrimony. But J can<g ref="char:EOLhyphen"/>not thus paſſe by Mr. <hi>Peters,</hi> a man that hath done ſo much good for us, eſpecially by his indefatigable pains in every pariſh in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> to find out thoſe our many Babes borne out of the eſtate &amp; covenant of Grace (though by this Malignant called Baſtards) and convayed dilligently to New-England, by whoſe meanes the ob<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ects of our owne viledneſſe are taken away from our our perpetuall remembrance.</p>
+            <p n="10">10 He hath moſt abominably ſpoken againſt the Practices of our Lay Divines as Mr. <hi>Greene</hi> the feltmaker, <hi>Spencer</hi> the Horſe<g ref="char:EOLhyphen"/>rubber, Quarterman the brewers Clarke, and <hi>Iohn Gaile</hi> the Sowgelder of <hi>Wallingford,</hi> who have been very laborious to edi<g ref="char:EOLhyphen"/>fie us our &amp; wiues in the truth, &amp; that he hath lately beaten at his ſhop one of our cheif Divines, Namely <hi>Nicholas Tew</hi> the Gird<g ref="char:EOLhyphen"/>ler at the exchange, who teacheth at Whitechappel in a Chamber every Saboath day, and as if that were not ſufficient to fill up the Meaſure of his wickedneſſe, he afterwards fell to buffet him, and then (moſt tyrannically) turned him over to be buffetted by <hi>Satan.</hi>
+            </p>
+            <p n="11">11 That the great Malignant Stationer doth many times ſpeake againſt that which we call diſtrayning, calling us Iſraelites and thoſe of his opinion Egiptians, ſaying that we do rob and ſpoyl them of their ſilver and Gold plate when verily we do but bor<g ref="char:EOLhyphen"/>row and take it without their conſent.</p>
+            <p n="12">12 That he did ſtrongly endeavor to defend the Biſhops and their calling to be (as he ſaid) by the Iuſtitution of Chriſt proving it out of the firſt of the Acts, and that he did vſually a nights be<g ref="char:EOLhyphen"/>fore his going to bed, ſing the Common prayers, which we call
+<pb n="4" facs="tcp:155787:4"/>the Common Maſſe, in the <hi>Tone</hi> and <hi>Tongue</hi> of the Beaſt, and that he did ſpeak againſt our ſilencing of 60. Divines, ſaying, that when we had put out the Candles we might at play at blindman buffe, both the City, Cloſe, and inviſible Committee, and that when the lights were out, we might fall co the holy ſiſters in the dark, when in ſincerity we need not, for we can do it faſt enough in the light.</p>
+            <p n="13">13 That the ſaid Malignant did commonly ſay that we did rob the wicked to cloath the godly, and inſtanced, our taking Cloth from the Drapers in Pauls Church-yard, and that he did liken our teaching, to the wilde and frantick preaching of Brow<g ref="char:EOLhyphen"/>niſts or Anabaptiſts in Germany, and ſaid that in the End, we would ſerve the Malignant Citizens as they did the Germans, firſt rob them of their goods, and then of their lives.</p>
+            <p n="14">14 That he did uſually reproach our Outlandiſh Teachers, calling them New-Engliſh Canaanites, Ridiculous Lecturers, and ſaying, that they did commonly pray blaſphemy, and preach treaſon, Rebellion, and ſedition, which (as he ſayd) were the chief cauſes of our miſeries, and did liken them to the Poets of old who made Comedies to pleaſe the people,<note place="margin">Populo ut place-rent quas feciſſet fabulas. <hi>Terent. Pro.</hi>
+               </note> Sermons, and ſaid that they were the Locuſts ſpoken of in the Revelation, that came out of the bottomleſſe pit, alſo that he did call my Lord Mayors worſhip the Lay Antichriſt, becauſe he had (as he ſaid) uſurpt the Keys and the ſword which was an evident marke of the man of ſinne. And thus have I (with the advice of my brother Potter, being both of us the new deviſed Common-councell-men for the pariſh of Sepulchers) preſented unto your grave worſhip, fourteen Articles of treaſon againſt the ſaid malignant, deſiring in the names of our ſelves, and all the Seperatiſts of the ſaid pariſh, that the ſaid Dobſon be put to anſwer to all and every of the ſaid Articles and accuſations that ſo ſuch proofes and proceedings may be made againſt him, as may be correſpondent and anſwerable to the judaicall law; with our expoſitions and notes upon the ſame.</p>
+            <div type="part">
+               <pb n="5" facs="tcp:155787:4"/>
+               <head>A Catalogue of the Names of thoſe Cananites, and Ridiculous Browniſts, who have ſub<g ref="char:EOLhyphen"/>ſcribed to prove the Articles above mentioned.</head>
+               <list>
+                  <item>
+                     <hi>Stephan Evans,</hi> alias <hi>Prince of Morocco,</hi> Knight of the Burning Peſtle, Salter, and Tub-preacher, on Snow H ll.</item>
+                  <item>
+                     <hi>Mattocks,</hi> the arrant honeſt Baker, whoſe Cake is Dough.</item>
+                  <item>
+                     <hi>Samuel Shewell,</hi> alias, Blew-Coat Sam.</item>
+                  <item>
+                     <hi>Francis Eland,</hi> alias, Horſe-doctor Frank.</item>
+                  <item>
+                     <hi>Birt</hi> the <hi>quondam</hi> Sadler, alias, rayling Rabſhekah, or Round-Breeches.</item>
+                  <item>
+                     <hi>Grennill,</hi> alias, Sergeant Famine.</item>
+                  <item>
+                     <hi>Coxe,</hi> alias, Coxecombe.</item>
+                  <item>Captain <hi>Cloake-bag.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Patriarke.</hi>
+                  </item>
+                  <item>
+                     <hi>Primate</hi> the Letherſeller, alias, Camelion.</item>
+                  <item>
+                     <hi>Thomas Andrews,</hi> alias, Shit-Breech-Tom.</item>
+                  <item>
+                     <hi>Simple Robin,</hi> the zealous Round-head.</item>
+               </list>
+               <p>The ſaid Edward Dobſon having gotten a coppy of theſe ar<g ref="char:EOLhyphen"/>ticles thought good to declare them to the world, and to ſhew that he being by the inſtigation and complaints or the aboue na<g ref="char:EOLhyphen"/>med Rabble and their aſſociates caſt in priſon, the next day was broght to the Parliament to be accuſed by them (as he conceived) of loyalty, and being committed to the ſafe cuſtody of ſix round<g ref="char:EOLhyphen"/>heads or rather Jews, in the committee of the Court of wards, Prince Ruperts dogg came into the ſaid court, and (and whilſt they were buſie in expounding ſcripture and conſuting the pope in plumbroth) ſnatcht him from the inviſible committee, to the viſible City of Oxford,</p>
+               <epigraph>
+                  <q>
+                     <l>Ab omni Peccato, malo, &amp; infortunio,</l>
+                     <l>Ab inſidiis Diaboli, &amp; diſsidiis Retundi,</l>
+                     <l>Et ab aeterna damnatione,</l>
+                     <bibl>
+                        <hi>Libera nos Domine,</hi>
+                     </bibl>
+                  </q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
